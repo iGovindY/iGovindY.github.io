@@ -25,7 +25,7 @@
     "noImageResize": "",
     "google-analytics": "",
     "versionFirst": "3.12.1",
-    "uniqCompNum": 2,
+    "uniqCompNum": 9,
     "versionPublish": "3.12.1",
     "path": "@PROJECT_PATH@",
     "screenshot": "screenshot.png"
@@ -73,7 +73,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>GOVIND YADAV</i></span><br>Developer.",
           "text": "Interactive Resume",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://drive.google.com/open?id=0Bydw75q6w5WkRElHVmdpbTA4eHM\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-document mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD Resume</a>"
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://drive.google.com/file/d/0B0FxzkY9CSa4Sk9FTjVWdUF2S3dMZXdRVVRlX1ZuSzF3cmsw/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-document mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD Resume</a> "
         },
         {
           "_inherit": "social-buttons2",
@@ -82,7 +82,8 @@
               "color": "#fff"
             },
             ".mbr-section-title": {
-              "text-align": "center"
+              "text-align": "center",
+              "font-size": "32px"
             }
           },
           "_tags": [
@@ -92,7 +93,7 @@
           "_anchor": "social-buttons4-1",
           "_params": {
             "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingBottom": "0",
             "bgImageRadio": false,
             "parallax": true,
             "bgImage": "@THEME_PATH@/components/_images/landscape3.jpg",
@@ -104,6 +105,49 @@
           },
           "text": "Connect with me",
           "icons": "<a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Twitter\" target=\"_blank\" href=\"https://twitter.com/iGovindY\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-twitter\"></i></a> <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"Facebook\" target=\"_blank\" href=\"https://www.facebook.com/govindnitr\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-facebook\"></i></a>      <a data-app-btn=\"true\" class=\"btn btn-social\" title=\"LinkedIn\" target=\"_blank\" href=\"https://www.linkedin.com/in/igovindy/\" data-toolbar=\"-mbrBtnAdd,-mbrBtnMove,-mbrFonts,-mbrFontSize,-mbrBtnColor\"><i class=\"socicon socicon-linkedin\"></i></a>   "
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts1",
+          "_anchor": "contacts1-8",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#3C3C3C"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/govind-photo-cropped-128x132.jpg",
+              "width": 128,
+              "active": true,
+              "link": "#top",
+              "alt": "Govind Yadav",
+              "title": "Govind Yadav",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-contacts1",
+              "link": "",
+              "size": 0
+            }
+          },
+          "text1": "<p><br></p><p>igovindyadav@gmail.com</p><p>+91 98805 10754&nbsp;&nbsp;&nbsp;&nbsp;</p>",
+          "text2": "",
+          "text3": "",
+          "_styles": {
+            "P": {
+              "text-align": "left"
+            }
+          }
         }
       ]
     }
