@@ -34,8 +34,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "",
-        "meta_descr": "",
+        "title": "Hi! I'm Govind",
+        "meta_descr": "Developer",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
