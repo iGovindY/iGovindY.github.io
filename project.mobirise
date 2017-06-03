@@ -73,7 +73,7 @@
           },
           "title": "<span style=\"font-weight: normal;\"><i>GOVIND YADAV</i></span><br>Developer.",
           "text": "Interactive Resume",
-          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://drive.google.com/file/d/0B0FxzkY9CSa4Sk9FTjVWdUF2S3dMZXdRVVRlX1ZuSzF3cmsw/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-document mbr-iconfont mbr-iconfont-btn\"></span>DOWNLOAD Resume</a> "
+          "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://drive.google.com/file/d/0B0FxzkY9CSa4Sk9FTjVWdUF2S3dMZXdRVVRlX1ZuSzF3cmsw/view?usp=sharing\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\"><span class=\"etl-icon icon-document mbr-iconfont mbr-iconfont-btn\"></span>Download Résumé</a> "
         },
         {
           "_inherit": "social-buttons2",
